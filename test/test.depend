@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655919445 source:d:\bingxing\homework-x86\mpi\test\main.cpp
+	"mpi.h"
+	<stdio.h>
+

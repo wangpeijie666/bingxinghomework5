@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1655918823 source:d:\bingxing\homework-x86\mpi\mpiomp\main.cpp
+	"mpi.h"
+	<iostream>
+	<emmintrin.h>
+	<immintrin.h>
+	<algorithm>
+	<omp.h>
+

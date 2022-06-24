@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1656034246 source:d:\bingxing\homework-x86\mpi\testmpi\main.cpp
+	<iostream>
+	<sys/time.h>
+	"mpi.h"
+	<omp.h>
+	<algorithm>
+
